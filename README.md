@@ -1,8 +1,8 @@
-# Write some documentation 
+# One Armed Bandit
 
 ## Slot machine
 
-Welcome to my slot machine. 
+Welcome to my restful slot machine. 
 It consumes JSON
 
 
