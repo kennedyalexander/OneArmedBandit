@@ -1,7 +1,5 @@
 # Write some documentation 
 
-# Coding Challenge
-
 ## Slot machine
 
 Welcome to my slot machine. 
